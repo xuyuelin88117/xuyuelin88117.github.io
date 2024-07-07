@@ -11,4 +11,5 @@ publication_types:
 - article-journal
 publication: '*Waves in Random and Complex Media*'
 doi: 'https://doi.org/10.1080/17455030.2023.2166687'
+url_pdf: 'https://github.com/xuyuelin88117/xuyuelin88117.github.io/blob/main/content/publication/huang-2023-stability/Stability%20instability%20of%20electrorheological%20nano%20pipes%20used%20in%20braking%20nanosystems%20by%20the%20machine%20learning%20method.pdf'
 ---
