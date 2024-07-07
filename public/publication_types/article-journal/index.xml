@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Yuelin Xu&#39;s Homepage</title>
-    <link>http://localhost:52143/publication_types/article-journal/</link>
-      <atom:link href="http://localhost:52143/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:52369/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:52369/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:52143/media/icon_hu1caf2a74a6da7079f6d352b2b5e8d7c1_13697_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:52369/media/icon_hu1caf2a74a6da7079f6d352b2b5e8d7c1_13697_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
-      <link>http://localhost:52143/publication_types/article-journal/</link>
+      <link>http://localhost:52369/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>Stability/instability of electrorheological nano pipes used in braking nanosystems by the machine learning method</title>
-      <link>http://localhost:52143/publication/huang-2023-stability/</link>
+      <link>http://localhost:52369/publication/huang-2023-stability/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52143/publication/huang-2023-stability/</guid>
+      <guid>http://localhost:52369/publication/huang-2023-stability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimization based on tabu search algorithm for optimal sizing of hybrid PV/energy storage system: Effects of tabu search parameters</title>
-      <link>http://localhost:52143/publication/xu-2022-optimization/</link>
+      <link>http://localhost:52369/publication/xu-2022-optimization/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52143/publication/xu-2022-optimization/</guid>
+      <guid>http://localhost:52369/publication/xu-2022-optimization/</guid>
       <description></description>
     </item>
     

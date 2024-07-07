@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Yuelin Xu&#39;s Homepage</title>
-    <link>http://localhost:52143/publication/</link>
-      <atom:link href="http://localhost:52143/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:52369/publication/</link>
+      <atom:link href="http://localhost:52369/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:52143/media/icon_hu1caf2a74a6da7079f6d352b2b5e8d7c1_13697_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:52369/media/icon_hu1caf2a74a6da7079f6d352b2b5e8d7c1_13697_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>http://localhost:52143/publication/</link>
+      <link>http://localhost:52369/publication/</link>
     </image>
     
     <item>
       <title>Understanding Adversarially Robust Generalization via Weight-Curvature Index</title>
-      <link>http://localhost:52143/publication/xu2024understanding/</link>
+      <link>http://localhost:52369/publication/xu2024understanding/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52143/publication/xu2024understanding/</guid>
+      <guid>http://localhost:52369/publication/xu2024understanding/</guid>
       <description>&lt;!-- 
 
 
@@ -55,57 +55,57 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Stability/instability of electrorheological nano pipes used in braking nanosystems by the machine learning method</title>
-      <link>http://localhost:52143/publication/huang-2023-stability/</link>
+      <link>http://localhost:52369/publication/huang-2023-stability/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52143/publication/huang-2023-stability/</guid>
+      <guid>http://localhost:52369/publication/huang-2023-stability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Network Technology in Big Data Distributed Cloud Storage Platform</title>
-      <link>http://localhost:52143/publication/xu-2022-computer/</link>
+      <link>http://localhost:52369/publication/xu-2022-computer/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52143/publication/xu-2022-computer/</guid>
+      <guid>http://localhost:52369/publication/xu-2022-computer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementation logic optimization artificial neural network borrowing from random forest</title>
-      <link>http://localhost:52143/publication/yuelin-2022-implementation/</link>
+      <link>http://localhost:52369/publication/yuelin-2022-implementation/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52143/publication/yuelin-2022-implementation/</guid>
+      <guid>http://localhost:52369/publication/yuelin-2022-implementation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimization based on tabu search algorithm for optimal sizing of hybrid PV/energy storage system: Effects of tabu search parameters</title>
-      <link>http://localhost:52143/publication/xu-2022-optimization/</link>
+      <link>http://localhost:52369/publication/xu-2022-optimization/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52143/publication/xu-2022-optimization/</guid>
+      <guid>http://localhost:52369/publication/xu-2022-optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research on Computer Big Data Deep Learning Technology in Mechanical Processing</title>
-      <link>http://localhost:52143/publication/xu-2022-research/</link>
+      <link>http://localhost:52369/publication/xu-2022-research/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52143/publication/xu-2022-research/</guid>
+      <guid>http://localhost:52369/publication/xu-2022-research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strategy Arrangement of Road Cycling Individual Time Trial Based on Topology Optimization Algorithm</title>
-      <link>http://localhost:52143/publication/xu-2022-strategy/</link>
+      <link>http://localhost:52369/publication/xu-2022-strategy/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52143/publication/xu-2022-strategy/</guid>
+      <guid>http://localhost:52369/publication/xu-2022-strategy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research on E-commerce customer evaluation system in the context of big data: taking amazon as an example</title>
-      <link>http://localhost:52143/publication/yuelin-2021-research/</link>
+      <link>http://localhost:52369/publication/yuelin-2021-research/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52143/publication/yuelin-2021-research/</guid>
+      <guid>http://localhost:52369/publication/yuelin-2021-research/</guid>
       <description></description>
     </item>
     
