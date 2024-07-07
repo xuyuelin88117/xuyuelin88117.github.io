@@ -2,7 +2,7 @@
 title: Strategy Arrangement of Road Cycling Individual Time Trial Based on Topology
   Optimization Algorithm
 authors:
-- Yuelin Xu
+- admin
 - Yue Dai
 - Haonan Zhang
 date: '2022-01-01'

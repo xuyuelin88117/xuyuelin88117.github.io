@@ -2,7 +2,9 @@
 title: Improving the Efficiency of Self-Supervised Adversarial Training through Latent
   Clustering-based Selection
 authors:
-- ' Anonymous'
+  - Somrita Ghosh
+  - admin
+  - Xiao Zhang
 date: '2024-01-01'
 publishDate: '2024-07-07T04:29:56.202486Z'
 publication_types:

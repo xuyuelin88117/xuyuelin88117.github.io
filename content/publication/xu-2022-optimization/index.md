@@ -2,7 +2,7 @@
 title: 'Optimization based on tabu search algorithm for optimal sizing of hybrid PV/energy
   storage system: Effects of tabu search parameters'
 authors:
-- Yuelin Xu
+- admin
 - Sihao Huang
 - Ziwei Wang
 - Yiming Ren

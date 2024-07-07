@@ -2,7 +2,7 @@
 title: 'Research on E-commerce customer evaluation system in the context of big data:
   taking amazon as an example'
 authors:
-- Xu Yuelin
+- admin
 - Xu Danyang
 - Li Hui
 date: '2021-01-01'

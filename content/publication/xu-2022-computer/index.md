@@ -1,7 +1,7 @@
 ---
 title: Computer Network Technology in Big Data Distributed Cloud Storage Platform
 authors:
-- Yuelin Xu
+- admin
 - Yuran Wang
 - Baiyang Wan
 - Ahthasham Ullah Khan

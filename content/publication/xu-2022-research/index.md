@@ -1,7 +1,7 @@
 ---
 title: Research on Computer Big Data Deep Learning Technology in Mechanical Processing
 authors:
-- Yuelin Xu
+- admin
 - Sihao Huang
 - Jialin Guo
 - Yue Dai
