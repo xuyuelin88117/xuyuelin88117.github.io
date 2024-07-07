@@ -13,4 +13,5 @@ publication_types:
 publication: '*2022 IEEE 2nd International Conference on Power, Electronics and Computer
   Applications (ICPECA)*'
 doi: 'https://doi.org/10.1109/ICPECA53709.2022.9718886'
+abstract: Aiming at the problems that traditional manufacturing and processing equipment is not closely related to data and information in the production and processing process, and the use and maintenance of equipment relies on manual experience, a new method of equipment intelligence is proposed. There are faults in motor manufacturing during machining. Based on the non-stationary and non-linear nature of the motor signal itself, combined with the characteristics of large amount of motor monitoring data and the advantages of deep learning methods in target recognition, this paper proposes a fault diagnosis method for motor machining based on deep learning.
 ---
