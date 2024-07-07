@@ -10,4 +10,5 @@ publishDate: '2024-07-07T01:29:51.413657Z'
 publication_types:
 - article-journal
 publication: '*Waves in Random and Complex Media*'
+doi: 'https://doi.org/10.1080/17455030.2023.2166687'
 ---

@@ -11,4 +11,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 6th International Conference on Medical and Health
   Informatics*'
+doi: 'https://doi.org/10.1145/3545729.3545778'
 ---

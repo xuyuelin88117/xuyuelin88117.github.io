@@ -12,4 +12,5 @@ publication_types:
 - paper-conference
 publication: '*2022 IEEE 2nd International Conference on Power, Electronics and Computer
   Applications (ICPECA)*'
+doi: 'https://doi.org/10.1109/ICPECA53709.2022.9718886'
 ---
