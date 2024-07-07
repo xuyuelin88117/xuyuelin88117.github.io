@@ -11,4 +11,5 @@ publication_types:
 - paper-conference
 publication: '*Journal of Physics: Conference Series*'
 doi: "https://doi.org/10.1109/ICPECA53709.2022.9718886"
+url_pdf: 'https://github.com/xuyuelin88117/xuyuelin88117.github.io/blob/main/content/publication/yuelin-2021-research/Research%20on%20E-commerce%20Customer%20Evaluation%20System.pdf'
 ---
