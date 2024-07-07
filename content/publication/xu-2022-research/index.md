@@ -38,5 +38,5 @@ abstract: Amazon provides the customers an opportunity to assess their purchases
 # Display this page in the Featured widget?
 featured: false
 
-# url_pdf: 
+url_pdf: https://github.com/xuyuelin88117/xuyuelin88117.github.io/blob/main/content/publication/xu-2022-research/Research%20on%20E-commerce%20Customer%20Evaluation%20System.pdf
 ---
