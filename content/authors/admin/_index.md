@@ -9,7 +9,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Preparatory Phase Ph.D.
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -79,4 +79,4 @@ languages:
 
 ## About Me
 
-I am a Preparatory Phase Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en) and [Saarland University](https://www.uni-saarland.de/start.html), supervised by [Dr.Xiao Zhang](https://xiao-zhang.net), beginning in 2023. Previously, I worked as a Research Administrative Assistant in the [Internet and Mobile Computing Lab (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk) from 2022 to 2023, supervised by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). I received my B.S. degrees in Computational Mathematics and Cybernetics from [Lomonosov Moscow State University](https://msu.ru/en/) and [Shenzhen MSU-BIT University](https://en.smbu.edu.cn) in 2023.
+I am a Ph.D. candidate at [CISPA Helmholtz Center for Information Security](https://cispa.de/en) and [Saarland University](https://www.uni-saarland.de/start.html), supervised by [Dr.Xiao Zhang](https://xiao-zhang.net), beginning in 2023. Previously, I worked as a Research Administrative Assistant in the [Internet and Mobile Computing Lab (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk) from 2022 to 2023, supervised by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). I received my B.S. degrees in Computational Mathematics and Cybernetics from [Lomonosov Moscow State University](https://msu.ru/en/) and [Shenzhen MSU-BIT University](https://en.smbu.edu.cn) in 2023.
