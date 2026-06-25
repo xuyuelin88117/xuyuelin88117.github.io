@@ -65,7 +65,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-06-16
-    date_end: ''
+    date_end: 2025-10-01
 
 languages:
   - name: English
