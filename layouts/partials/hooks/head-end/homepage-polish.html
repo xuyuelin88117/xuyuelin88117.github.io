@@ -1,0 +1,58 @@
+<style>
+  .resume-biography #profile {
+    max-width: 18rem;
+  }
+
+  .resume-biography .portrait-title {
+    max-width: 18rem;
+  }
+
+  .resume-biography .portrait-title .mb-2 div {
+    line-height: 1.35;
+  }
+
+  .resume-biography .flex-auto.max-w-prose {
+    max-width: 47rem;
+  }
+
+  .resume-biography .prose {
+    max-width: none !important;
+  }
+
+  .resume-biography .bio-text {
+    max-width: 100%;
+  }
+
+  .resume-biography .grid.grid-cols-2 {
+    grid-template-columns: 19rem minmax(0, 1fr) !important;
+    column-gap: 1.5rem;
+    row-gap: 1rem;
+    align-items: start;
+  }
+
+  @media (max-width: 900px) {
+    .resume-biography .grid.grid-cols-2 {
+      grid-template-columns: minmax(0, 1fr) !important;
+    }
+  }
+
+  .resume-biography .grid.grid-cols-2 > div:nth-child(2) ul {
+    display: grid;
+    gap: 1.1rem;
+  }
+
+  .resume-biography .grid.grid-cols-2 > div:nth-child(2) .course {
+    line-height: 1.35;
+    margin-bottom: 0.1rem;
+    font-weight: 600;
+  }
+
+  .resume-biography .grid.grid-cols-2 > div:nth-child(2) .education-date {
+    color: rgb(75 85 99);
+    margin-bottom: 0.2rem;
+  }
+
+  .resume-biography .grid.grid-cols-2 > div:nth-child(2) .text-sm {
+    line-height: 1.45;
+  }
+</style>

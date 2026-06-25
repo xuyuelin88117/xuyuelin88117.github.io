@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Research on E-commerce customer evaluation system in the context of big data:
   taking amazon as an example'
 authors:

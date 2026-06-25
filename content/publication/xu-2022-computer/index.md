@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Computer Network Technology in Big Data Distributed Cloud Storage Platform
 authors:
 - admin

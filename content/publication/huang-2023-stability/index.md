@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Stability/instability of electrorheological nano pipes used in braking nanosystems
   by the machine learning method
 authors:

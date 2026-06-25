@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Research on Computer Big Data Deep Learning Technology in Mechanical Processing
 authors:
 - admin

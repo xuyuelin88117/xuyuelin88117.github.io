@@ -45,9 +45,12 @@ interests:
   - Data Mining
 
 education:
-  - area: Ph.D. in Computer Science
-    institution: CISPA Helmholtz Center for Information Security & Saarland University
-    date_start: 2023-10-01
+  - area: Ph.D. Candidate in Computer Science
+    date: May 2025–Present
+    institution: CISPA Helmholtz Center for Information Security; Saarland University
+  - area: Ph.D. Preparatory Phase in Computer Science
+    date: October 2023–April 2025
+    institution: Saarbrücken Graduate School of Computer Science, Saarland University
 
 work: []
 
@@ -59,4 +62,4 @@ languages:
 
 ## About Me
 
-I am a Ph.D. candidate at [CISPA Helmholtz Center for Information Security](https://cispa.de/en) and [Saarland University](https://www.uni-saarland.de/start.html), supervised by [Dr. Xiao Zhang](https://xiao-zhang.net), beginning in 2023.
+I am a Ph.D. candidate at [CISPA Helmholtz Center for Information Security](https://cispa.de/en) and [Saarland University](https://www.uni-saarland.de/start.html), supervised by [Dr. Xiao Zhang](https://xiao-zhang.net). Previously, I worked as a Research Administrative Assistant in the [Internet and Mobile Computing Lab (IMCL)](https://www4.comp.polyu.edu.hk/~labimcl/index.html) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk), supervised by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/).
